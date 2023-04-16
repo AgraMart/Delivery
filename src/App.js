@@ -10,7 +10,7 @@ const [id,setId] = useState(null)
 
 const submitHandler =()=>{
   axios
-      .post(' https://8aa0-117-196-234-150.ngrok-free.app/updateDelivery', {
+      .post('http://34.131.68.37/updateDelivery', {
         id:id,
         delivery: value
       })
