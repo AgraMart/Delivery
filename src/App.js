@@ -10,7 +10,7 @@ const [id,setId] = useState(null)
 
 const submitHandler =()=>{
   axios
-      .post('http://localhost:8000/updateDelivery', {
+      .post('http://34.131.68.37/updateDelivery', {
         id:id,
         delivery: value
       })
