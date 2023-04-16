@@ -1,4 +1,7 @@
 # Delivery Verification
+
+![WhatsApp Image 2023-04-16 at 20 22 32](https://user-images.githubusercontent.com/77457296/232321267-5473c691-8db8-411c-9e05-8eb8c41f06bc.jpeg)
+
 When you place an order with us, you will receive a unique QR code that you can present to our delivery team upon arrival. Our delivery team will use your QR code scanner which will redirect him to our delivery web page where he will enter his delivery code to verify the code given by you  and confirm that you have received your order. This helps to prevent any errors or fraud, and ensures that you receive exactly what you ordered. This is the layout of the Delivery app.
 
 # Getting Started with Create React App
